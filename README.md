@@ -7,3 +7,4 @@ then just run one command
 docker-compose up
 now open website with the ip of your vm
 ip here is http://192.168.43.193:8000/index.html
+use command docker-compose stop or Ctrl+c to terminate
