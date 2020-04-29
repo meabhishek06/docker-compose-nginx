@@ -1,5 +1,5 @@
 # docker-compose-nginx
-This is a static HTML and CSS webpage hosted on nginx using docker-compose
+This is a static HTML and CSS webpage hosted on nginx using docker-compose.
 Steps to run this
 just clone this repository
 change the working directory to the directory repository clonned
