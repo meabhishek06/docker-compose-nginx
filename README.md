@@ -2,7 +2,7 @@
 This is a static HTML and CSS webpage hosted on nginx using docker-compose.
 Steps to run this
 just clone this repository
-change the working directory to the directory repository clonned
+change the working directory to the directory repository clonned (here dockernnginix)
 then just run one command
 docker-compose up
 now open website with the ip of your vm
