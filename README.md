@@ -6,4 +6,4 @@ change the working directory to the directory repository clonned
 then just run one command
 docker-compose up
 now open website with the ip of your vm
-ip here is http://192.168.43.193:4000/index.html
+ip here is http://192.168.43.193:8000/index.html
